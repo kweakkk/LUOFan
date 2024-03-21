@@ -1,0 +1,33 @@
+
+p{
+   color: aquamarine;
+   font-size: 20px;
+
+}
+h1:hover{
+    color: aquamarine;
+    background-color: brown;
+}
+.standout{
+    color: blanchedalmond;
+
+}
+h2.standout{
+   color: blueviolet;
+
+}
+.image1{
+    border-radius:30px;
+}
+.image2{
+    border-radius:50%;
+}
+.image3{
+    opacity: 0.8;
+}
+.image4{
+    filter: grayscale(70%);
+}
+.image5:hover{
+    filter: blur(2px);
+}
